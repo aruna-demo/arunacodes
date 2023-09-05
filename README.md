@@ -1,4 +1,4 @@
 # arunacodes
 This is my first Repository.
 <br>
-Author - Aruna Tripathy
+Author - Aruna Tripathy(dipi)
